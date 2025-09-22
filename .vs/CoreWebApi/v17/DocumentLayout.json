@@ -1,7 +1,16 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "G:\\GitHubProgram\\\u4EE3\u7406\u5546\u7F51\u7AD9\\CoreWebApi\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C3F40D54-0280-47C8-99AA-0C36F44EE5A8}|CoreWebApi.csproj|g:\\githubprogram\\\u4EE3\u7406\u5546\u7F51\u7AD9\\corewebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3F40D54-0280-47C8-99AA-0C36F44EE5A8}|CoreWebApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3F40D54-0280-47C8-99AA-0C36F44EE5A8}|CoreWebApi.csproj|g:\\githubprogram\\\u4EE3\u7406\u5546\u7F51\u7AD9\\corewebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C3F40D54-0280-47C8-99AA-0C36F44EE5A8}|CoreWebApi.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,6 +55,32 @@
             {
               "$type": "Bookmark",
               "Name": "ST:137:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\GitHubProgram\\\u4EE3\u7406\u5546\u7F51\u7AD9\\CoreWebApi\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "G:\\GitHubProgram\\\u4EE3\u7406\u5546\u7F51\u7AD9\\CoreWebApi\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T06:22:49.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "G:\\GitHubProgram\\\u4EE3\u7406\u5546\u7F51\u7AD9\\CoreWebApi\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "G:\\GitHubProgram\\\u4EE3\u7406\u5546\u7F51\u7AD9\\CoreWebApi\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-22T06:20:28.79Z",
+              "EditorCaption": ""
             }
           ]
         },
